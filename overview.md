@@ -7,9 +7,9 @@ The topic of _what makes an effective team_ is well studied, and I think relativ
 
 ## What makes an effective team?
 Google famously undertook work called Project Aristotle, which settled upon five team dynamics that are characteristic of highest performing teams.
-
+<div style="text-align:center">
 <img src="https://github.com/user-attachments/assets/aa007c4c-2fde-43d7-8ea6-244d88c0fee6" style="width: 300px;" alt="image">
-
+</div>
 **A word of warning:  What psychological safety is _not_**
 
 The term psychological safety is almost unfortunate given the frequency with which it is misused.  
@@ -31,5 +31,6 @@ To create these dynamics within a modern data team, I consider there are two bro
 
 These elements are shown in the figure below.
 
-
+<div style="text-align:center">
 <img src="https://github.com/user-attachments/assets/e684f51e-de52-47ee-88a6-3d8c0571afd3" style="width: 900px;" alt="image">
+</div>
